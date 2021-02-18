@@ -1,0 +1,45 @@
+h1{
+    font-family: 'Hanalei', cursive;
+    text-align: center;
+}
+table.uno{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    empty-cells: hide;
+}
+caption.uno{
+    background-color: gold;
+    color: darkblue;
+    font-weight: 900;
+}
+table.dos{
+    width: max-content;
+}
+table.tres{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    empty-cells: hide;
+}
+caption.dos{
+    background-color: gold;
+    color: darkblue;
+    font-weight: 900;
+    caption-side: bottom;
+}
+colgroup{
+    border: 3px red dotted;
+}
+table.cuatro{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: gold;
+    color: darkblue;
+    font-weight: 900;
+    width: max-content;
+    border: red 5px double;
+    border-collapse: collapse;
+}
